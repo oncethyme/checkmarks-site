@@ -1,0 +1,38 @@
+---
+
+port: 4000
+host: 0.0.0.0
+safe: false
+
+
+### site serving configuration ###
+exclude: [CNAME, README.md, .gitignore]
+permalink: / ## disables post output
+timezone: null
+lsi: false
+markdown: kramdown
+highlighter: rouge
+
+
+### content configuration ###
+title: "Checkmarks &ndash; A beautiful to-do app for Windows"
+keywords: "Checkmarks, Google Tasks, check marks, to-do, todo, to do, Windows 10 Store app"
+description: "A to-do app for Windows users who love Google Tasks"
+source_link: "https://github.com/oncethyme/checkmarks-site"
+download_link: "https://www.microsoft.com/store/apps/9WZDNCRDCG0D"
+favicon_png: "img/favicon.png"
+google_analytics_key:  ## put YOUR key here to enable tracking! (blank to disable)
+
+
+### template colors, used site-wide via css ###
+colors:
+  black:     '#111111'
+  white:     '#f8f8f8'
+  blue:      '#49a7e9'
+  green:     '#9bcf2f'
+  purple:    '#c869bf'
+  orange:    '#fab125'
+  turquoise: '#0fbfcf'
+
+kramdown:
+  auto_ids:  false
