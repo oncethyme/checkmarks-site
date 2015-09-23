@@ -1,11 +1,10 @@
-## Terms of Service
+## Checkmarks Terms of Service
 
-#### Section 1
+Last modified: September 22, 2015
 
-Some text
+These terms of service govern your use of the software application Checkmarks ("Application") for mobile and PC devices that was created by Alex Hinz.
 
-Some more text
 
-#### Section 2
+# Under Construction
 
-lorem ipsum dolor sit amet.
+The Checkmarks app and its terms of service have not yet launched. You may check back [here](http://checkmarks.alexhinz.com/terms_of_service) regularly to see any updates.
