@@ -54,7 +54,7 @@ We will retain User Provided data for as long as you use the Application and for
 
 ### Security
 
-We are concerned about safeguarding the confidentiality of your information. We provide physical, electronic, and procedural safeguards to protect information we process and maintain. For example, we limit access to this information to authorized employees and contractors who need to know that information in order to operate, develop or improve our Application. Sensitive data stored by the Application, such as your Google Account sign in tokens, are stored encrypted. Online syncing and transmission of Automatically Collected Information is performed over a secure connection. Please be aware that although we endeavor provide reasonable security for information we process and maintain, no security system can prevent all potential security breaches.
+We are concerned about safeguarding the confidentiality of your information. We provide physical, electronic, and procedural safeguards to protect information we process and maintain. For example, we limit access to this information to authorized employees and contractors who need to know that information in order to operate, develop or improve our Application. Sensitive data stored by the Application, such as your Google Account sign in tokens, are stored encrypted. Online syncing and transmission of Automatically Collected Information is performed over a secure connection. Please be aware that although we endeavor to provide reasonable security for information we process and maintain, no security system can prevent all potential security breaches.
 
 
 ### Changes
