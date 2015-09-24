@@ -20,7 +20,7 @@ By downloading any application from Alex Hinz (hereafter referred to as "The Com
 
     a. The Company's Privacy Policy (located at [{{site.privacy_policy_full_uri}}]({{site.privacy_policy_full_uri}})) explains how The Company treats your information and protects your privacy when you use the Application. You agree to the use of your data in accordance with The Company's privacy policies.
 
-    b. The Application may contain features that are used in conjunction with Google's Account, Tasks, and other services. Accordingly, your use of such features of the Application is also governed by Google's Terms of Service located at [http://www.google.com/terms_of_service.html](http://www.google.com/terms_of_service.html), Google's Privacy Policy located at [http://www.google.com/privacypolicy.html](http://www.google.com/privacypolicy.html), as well as any applicable Google service-specific Terms of Service and Privacy Policy, which may be updated from time to time and without notice.
+    b. The Application may contain features that are used in conjunction with Google Account, Google Tasks, and other Google&trade; services. Accordingly, your use of such features of the Application is also governed by Google's Terms of Service located at [http://www.google.com/terms_of_service.html](http://www.google.com/terms_of_service.html), Google's Privacy Policy located at [http://www.google.com/privacypolicy.html](http://www.google.com/privacypolicy.html), as well as any applicable Google service-specific Terms of Service and Privacy Policy, which may be updated from time to time and without notice.
 
 4. U.S. GOVERNMENT RESTRICTED RIGHTS
 
