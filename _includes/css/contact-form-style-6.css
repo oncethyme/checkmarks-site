@@ -65,5 +65,8 @@
 .form-style-6 input[type="submit"]:hover,
 .form-style-6 input[type="button"]:hover{
      background: darkturquoise;
-     color: #fff;
+}
+.form-style-6 input[type="submit"]:active,
+.form-style-6 input[type="button"]:active{
+     background: mediumturquoise;
 }
